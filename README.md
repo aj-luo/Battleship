@@ -1,4 +1,4 @@
-# Battleship
+# Battleship Solitaire
 Battleship Solitaire Constraint Satisfaction Problem
 
 Once all the files are downloaded, run the following command in your terminal/cmd prompt: 
